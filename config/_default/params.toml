@@ -13,9 +13,11 @@ customJs = []
 mainSections = ["post"]
 images = ["images/SmitomBorahpic01.jpg"]
 doNotLoadAnimations = false
+
 # Form Spree Contact Form
 contactFormAction = "https://formspree.io/f/mpzggveq"
 #contactFormReCaptcha = "your-site-key-here"
+
 # Google Fonts
 #googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 # Google Site Verify
@@ -23,6 +25,7 @@ contactFormAction = "https://formspree.io/f/mpzggveq"
 singleDateFormat = "2/1/2006"
 indexDateFormat = "2/1/2006"
 listDateFormat = "2/1/2006"
+
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
 # Read More links for truncated summaries
