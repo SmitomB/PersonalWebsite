@@ -3,26 +3,10 @@ aliases:
 - about-us
 - about-hugo
 - contact
-author: Hugo Authors
-date: "2019-02-28"
-description: Hugo, the world's fastest framework for building websites
-title: About
+author: Smitom Borah
+date: "2024-02-02"
+description: This page is about Smitom Borah
+title: Smitom Swapna Borah
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-
-Hugo makes use of a variety of open source projects including:
-
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I am a Ph.D. candidate working with Dr. Daniel Obenour in the Department of Civil, Construction and Environmental Engineering at NC State. My research interest lies in modeling the biogeochemical processes related to eutrophication in inland water systems and understanding how different management strategies as well as climate change can affect these processes. My keen interest in biogeochemical modeling has its roots in my master’s program that allowed me to experience firsthand how changes in the land use patterns and climate over the years can negatively affect civilization and wildlife in a deteriorating wetland. These experiences made me realize that to design effective restoration of an ecosystem, there must be strong local leadership and a proper mechanism to transfer technical know-how to practical implementation. I wish to build a career in academia and work closely with governmental agencies and the public to develop sustainable solutions to several water quality problems.
