@@ -17,8 +17,8 @@
   url = "/publications/"
   
   [[main]]
-  name = "Home"
-  identifier = "news"
+  name = "News"
+  identifier = "home"
   weight = 100
   url = "/"
 
