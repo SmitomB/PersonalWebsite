@@ -7,8 +7,10 @@ description: Research works by Smitom
 title: My research
 ---
 
+*This page is still under construction*
 
 ## Quantifying Internal Phosphorus Loading Rates in Large Lakes and Reservoirs Across the Conterminous United States
+
 Developed a machine learning based predictive framework to estimate internal phosphorus loading, total phosphorus, and bottom temperature across large water bodies in the US.
 
 ---
