@@ -79,10 +79,5 @@ icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:sborah@ncsu.edu"
 
-[[socialIcons]]
-icon = "fab fa-google"
-title = "Google Scholar"
-url = "https://scholar.google.com/citations?user=R_k-vOcAAAAJ&hl=en"
-
 [mermaid]
 # enable = true
