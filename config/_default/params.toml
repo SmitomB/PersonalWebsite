@@ -66,10 +66,10 @@ icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/SmitomB"
 
-[[socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+#[[socialIcons]]
+#icon = "fab fa-instagram"
+#title = "instagram"
+#url = "https://www.instagram.com/"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
