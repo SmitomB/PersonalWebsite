@@ -26,6 +26,7 @@
   name = "News"
   weight = 500
   identifier = "news"
+  url = "/news/"
 
   [[main]]
   name = "Contact"
