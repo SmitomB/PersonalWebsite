@@ -1,6 +1,6 @@
 [en]
 title = "Smitom Borah"
-weight = 1
+# weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
 
