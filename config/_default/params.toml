@@ -14,7 +14,7 @@ mainSections = ["post"]
 images = ["images/SmitomBorahpic01.jpg"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
-#contactFormAction = "https://formspree.io/f/mpzggveq"
+contactFormAction = "https://formspree.io/f/mpzggveq"
 #contactFormReCaptcha = "your-site-key-here"
 # Google Fonts
 #googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
