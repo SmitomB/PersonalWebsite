@@ -16,15 +16,15 @@
   identifier = "publications"
   url = "/publications/"
 
-  [[main]]
-  name = "News"
-  weight = 500
-  identifier = "news"
-  url = "/news/"
+#  [[main]]
+#  name = "News"
+#  weight = 500
+#  identifier = "news"
+#  url = "/news/"
   
   [[main]]
-  name = "Home"
-  identifier = "home"
+  name = "News"
+  identifier = "news"
   weight = 100
   url = "/"
 
