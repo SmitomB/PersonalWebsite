@@ -21,6 +21,12 @@
   weight = 500
   identifier = "news"
   url = "/news/"
+  
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
 
   [[main]]
   name = "Contact"
