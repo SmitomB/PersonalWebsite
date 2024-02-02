@@ -3,6 +3,12 @@
   identifier = "home"
   weight = 100
   url = "/"
+  
+  [[main]]
+  name = "About me"
+  weight = 400
+  identifier = "about_me"
+  url = "/about_me/"
 
   [[main]]
   name = "Research"
@@ -15,12 +21,6 @@
   weight = 300
   identifier = "publications"
   url = "/publications/"
-
-  [[main]]
-  name = "About me"
-  weight = 400
-  identifier = "about_me"
-  url = "/about_me/"
 
   [[main]]
   name = "News"
