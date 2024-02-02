@@ -6,19 +6,19 @@
 
   [[main]]
   name = "About me"
-  weight = 400
+  weight = 200
   identifier = "about_me"
   url = "/about_me/"
 
   [[main]]
   name = "Research"
-  weight = 200
+  weight = 300
   identifier = "research"
   url = "/research/"
 
   [[main]]
   name = "Publications"
-  weight = 300
+  weight = 400
   identifier = "publications"
   url = "/publications/"
 
