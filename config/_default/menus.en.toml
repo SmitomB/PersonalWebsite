@@ -1,4 +1,4 @@
-    [[main]]
+  [[main]]
   name = "About me"
   weight = 400
   identifier = "about_me"
@@ -15,18 +15,12 @@
   weight = 300
   identifier = "publications"
   url = "/publications/"
-  
+
   [[main]]
   name = "News"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-#  [[main]]
-#  name = "News"
-#  weight = 500
-#  identifier = "news"
-#  url = "/news/"
+  weight = 500
+  identifier = "news"
+  url = "/news/"
 
   [[main]]
   name = "Contact"
