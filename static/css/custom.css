@@ -1,0 +1,4 @@
+#profile picture, .avatar, .author__avatar img {
+  width: 250px !important;  /* Increase size as needed */
+  height: auto !important;
+}
