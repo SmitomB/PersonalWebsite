@@ -1,5 +1,6 @@
-.author__avatar img, .avatar, .avatar img, .profile img {
-    width: 200px !important;   /* Try 250px or more if needed */
-    height: 200px !important;  /* Keep height to match circle */
+.avatar, .avatar img, .author__avatar img {
+    width: 250px !important;
+    height: 250px !important;
     object-fit: cover;
 }
+
