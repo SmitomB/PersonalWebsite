@@ -11,6 +11,7 @@ description: This page is about Smitom Borah's publications
 * [Google Scholar](https://scholar.google.com/citations?user=R_k-vOcAAAAJ&hl=en)
 
 ## Peer-reviewed journals
+* **Borah, S. S.**, Del Giudice, D., Aupperle, M., Obenour, D.R. (2025). Exploring internal phosphorus loads and management interventions through Bayesian reservoir modeling. J. Environ. Manage. 384, 125538. https://doi.org/10.1016/j.
 * Dash, S., **Borah, S. S.**, & Kalamdhad, A. S. (2021). Heavy metal pollution and potential
 ecological risk assessment for surficial sediments of Deepor Beel, India. Ecological Indicators,
 122, 107265. https://doi.org/10.1016/j.ecolind.2020.107265
