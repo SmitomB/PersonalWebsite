@@ -10,7 +10,8 @@ favicon = "favicons/"
 customCss = ["css/custom.css"]
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["post"]
+# mainSections = ["post"]
+mainSections = []
 images = ["images/SmitomBorahpic01.jpg"]
 doNotLoadAnimations = false
 
