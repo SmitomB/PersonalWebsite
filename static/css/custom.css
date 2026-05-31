@@ -32,20 +32,18 @@ p, li, td, th, blockquote {
     text-align: left;
 }
 
-.featured-pub__doi {
+.featured-pub__doi,
+.featured-pub__link {
     display: inline-block;
-    font-size: 1.25rem;
-    color: #fff !important;
-    background-color: #6086b4;
-    padding: 5px 14px;
-    border-radius: 4px;
+    font-size: 1.3rem;
+    color: #6086b4 !important;
     text-decoration: none;
-    transition: background-color 0.2s ease;
+    margin-left: 4px;
+    vertical-align: middle;
 }
 
-.featured-pub__doi:hover {
-    background-color: #4a6e9e;
-    color: #fff !important;
+.featured-pub__link:hover {
+    color: #4a6e9e !important;
 }
 
 .sidebar__cv-button {
