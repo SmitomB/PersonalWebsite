@@ -16,10 +16,18 @@ Developing comprehensive datasets on waterbody and watershed characteristics thr
 
 ---
 
-### Ensemble Response Curves of Harmful Algal Blooms and Hypoxia in Lake Erie
+### Ensemble Response Curves of Harmful Algal Blooms and Hypoxia in Lake Erie <span class="badge-prep">(Manuscript in preparation)</span>
 *(Aug 2025 – Feb 2026)*
 
-Explored management implications for HABs and hypoxia mitigation through ensemble response curves. Developed a multi-model ensemble framework to characterize nutrient load-response relationships in aquatic systems.
+Managing eutrophication in lakes and reservoirs requires understanding how water quality responds to reductions in nutrient loading. These relationships are typically captured through load-response curves, which translate nutrient management targets into expected outcomes for metrics like harmful algal blooms (HABs) or oxygen depletion. Such curves are usually derived from a single model, which limits the ability to account for the full range of ecosystem behavior and predictive uncertainty. This project developed a multi-model ensemble framework for constructing load-response curves that is more robust and better reflects the range of plausible system responses.
+
+The framework was applied to HABs in the western basin of Lake Erie, one of the most nutrient-impaired large lakes in North America. Five models, including three statistical and two mechanistic approaches, were combined using a weighted, probabilistic approach that accounts for both predictive uncertainty and hydrometeorological variability. The resulting ensemble load-response curves broadly reproduced observed bloom dynamics and remained consistent across alternative combinations of contributing models, demonstrating the framework's robustness. The analysis also evaluated the probability of achieving different bloom severity outcomes across a range of nutrient loading rates, offering a more nuanced picture of management targets than any single model could provide.
+
+**Key findings:**
+
+- Combining multiple models through a weighted ensemble approach produces load-response curves that better represent ecosystem-scale HAB behavior than any individual model, while also providing a more honest characterization of uncertainty in predicted outcomes under different nutrient management scenarios.
+- Applied to the western basin of Lake Erie, the ensemble framework suggests that a spring total bioavailable phosphorus target load of around 45 metric tons per month is likely to achieve mild bloom conditions in most years, providing a probabilistically grounded target to inform management decisions.
+- The framework is designed to be transferable to other aquatic systems where multiple models exist or can be developed, offering a general approach for integrating model diversity into nutrient management planning.
 
 ---
 
