@@ -6,6 +6,7 @@ aliases:
 author: Smitom Borah
 date: "2024-02-02"
 description: This page is about Smitom Borah
+title: About
 ---
 
 I am a Postdoctoral Research Scholar working with [Dr. Daniel Obenour](https://www.ccee.ncsu.edu/people/drobenou/) in the [Department of Civil, Construction and Environmental Engineering](https://www.ccee.ncsu.edu/) at NC State University.
