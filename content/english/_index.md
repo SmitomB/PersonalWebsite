@@ -1,5 +1,6 @@
 ---
 author: Hugo Authors
+redirectUrl: /about_me/
 ---
 
 <!--
