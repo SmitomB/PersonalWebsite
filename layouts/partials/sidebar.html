@@ -25,11 +25,6 @@
         <p>{{ replace .Site.Params.description "\n" "<br />" | safeHTML }}</p>
       </div>
     </div>
-    <div class="sidebar__cv-button">
-      <a href="https://drive.google.com/file/d/1CzEygwqtutf9q0PzHOWdp9WZag-66Iuz/view?usp=sharing" target="_blank" rel="noopener" class="cv-button">
-        <i class="fas fa-download" aria-hidden="true"></i> Download CV
-      </a>
-    </div>
     <ul class="sidebar__list">
       {{ range $item := .Site.Params.socialIcons }}
         <li class="sidebar__list-item">
@@ -45,6 +40,11 @@
         </li>
       {{ end }}
     </ul>
+    <div class="sidebar__cv-button">
+      <a href="https://drive.google.com/file/d/1CzEygwqtutf9q0PzHOWdp9WZag-66Iuz/view?usp=sharing" target="_blank" rel="noopener" class="cv-button">
+        <i class="fas fa-download" aria-hidden="true"></i> Download CV
+      </a>
+    </div>
   </div>
 
 </div>
