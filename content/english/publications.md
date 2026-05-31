@@ -12,9 +12,9 @@ description: This page is about Smitom Borah's publications
 
 ## Peer-Reviewed Journals
 
-1. Baird, B. W., **Borah, S. S.**, Elser, J. J., & Obenour, D. R. (2026). Probabilistic assessment of algal nutrient limitation across lakes. *Limnology and Oceanography*, 71(4), e70375.
+1. Baird, B. W., **Borah, S. S.**, Elser, J. J., & Obenour, D. R. (2026). Probabilistic assessment of algal nutrient limitation across lakes. *Limnology and Oceanography*, 71(4), e70375. https://doi.org/10.1002/lno.70375
 
-2. **Borah, S. S.**, Duckworth, O., Nelson, N., & Obenour, D. R. (2025). Quantifying summer internal phosphorus loading in large lakes across the United States. *Environmental Science and Technology*, 59, 10445–10454.
+2. **Borah, S. S.**, Duckworth, O., Nelson, N., & Obenour, D. R. (2025). Quantifying summer internal phosphorus loading in large lakes across the United States. *Environmental Science and Technology*, 59, 10445–10454. https://doi.org/10.1021/acs.est.4c13431
 
 3. **Borah, S. S.**, Del Giudice, D., Aupperle, M., & Obenour, D. R. (2025). Exploring internal phosphorus loads and management interventions through Bayesian reservoir modeling. *Journal of Environmental Management*, 384, 125538. https://doi.org/10.1016/j.jenvman.2025.125538
 
