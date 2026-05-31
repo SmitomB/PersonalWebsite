@@ -8,6 +8,33 @@ p, li, td, th, blockquote {
     text-align: justify;
 }
 
+.sidebar__cv-button {
+    text-align: center;
+    margin: 1.2em 1em 0.6em;
+}
+
+.cv-button {
+    display: inline-block;
+    background-color: #6086b4;
+    color: #fff !important;
+    padding: 9px 22px;
+    border-radius: 4px;
+    font-size: 1.4rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+}
+
+.cv-button:hover {
+    background-color: #4a6e9e;
+    color: #fff !important;
+}
+
+.cv-button .fa-download {
+    margin-right: 6px;
+}
+
 .badge-prep {
     display: inline-block;
     font-size: 0.72em;
