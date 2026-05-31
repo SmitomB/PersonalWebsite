@@ -4,3 +4,17 @@
     object-fit: cover;
 }
 
+.badge-prep {
+    display: inline-block;
+    font-size: 0.72em;
+    font-weight: 500;
+    color: #5a7a6e;
+    background-color: #eaf2ee;
+    border: 1px solid #b5d4c6;
+    border-radius: 4px;
+    padding: 1px 7px;
+    margin-left: 8px;
+    vertical-align: middle;
+    letter-spacing: 0.01em;
+}
+

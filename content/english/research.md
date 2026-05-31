@@ -25,10 +25,18 @@ Explored management implications for HABs and hypoxia mitigation through ensembl
 
 ## PhD Research
 
-### Riverine Phosphorus Losses Across the U.S.
+### Riverine Phosphorus Losses Across the U.S. <span class="badge-prep">Manuscript in preparation</span>
 *(Jan 2024 – Jul 2025)*
 
-Investigated hydrometeorological drivers of phosphorus export across US watersheds using hierarchical Bayesian modeling. Explored the influence of climate and land management factors on watershed phosphorus losses at a national scale.
+Phosphorus lost from watersheds to rivers and streams is a leading cause of eutrophication in downstream lakes and coastal waters. While it is well established that precipitation drives much of this export through surface runoff, two important questions have remained largely unresolved at the national scale: which representation of precipitation best captures phosphorus export dynamics, and how does temperature factor into the picture? Total annual precipitation is the most commonly used metric in large-scale phosphorus models, but it blurs together the water that actually runs off and the water lost to evapotranspiration, which never reaches streams. Meanwhile, the role of temperature in regulating phosphorus export across the contiguous US has received little systematic attention.
+
+In this project, I developed a hierarchical Bayesian modeling framework to systematically evaluate different representations of precipitation and temperature as drivers of annual total phosphorus (TP) export across 131 watersheds spanning the contiguous US from 2002 to 2012. The model was built on a hybrid structure that accounts for multiple phosphorus sources, including agricultural inputs, urban waste, and background geogenic soil phosphorus, along with waterbody retention. Using this framework, I tested ten model versions with different combinations of total, net (precipitation minus actual evapotranspiration), and extreme precipitation, as well as temperature. For the best-performing model, I applied Shapley value analysis to quantify and map each predictor's contribution to phosphorus export across the country, representing the first application of this method within a parametric water-quality model.
+
+**Key findings:**
+
+- Net precipitation (total precipitation minus actual evapotranspiration) outperforms total precipitation as a predictor of phosphorus export, particularly for capturing intra-regional variability. When combined with an extreme precipitation term, it produces the best overall model performance, as extreme events capture episodic flushing dynamics that net precipitation alone cannot fully represent.
+- Temperature has an overall inverse relationship with phosphorus export at the national scale, acting primarily through evapotranspiration: warmer conditions reduce the water available for runoff, limiting phosphorus mobilization. This suggests that in a warming climate, the effect of temperature on phosphorus export will depend heavily on how precipitation patterns also shift.
+- Shapley value analysis reveals that precipitation is the dominant driver of both spatial and interannual variability in phosphorus exports, emerging as the primary factor in 64% of watersheds across the US. Agricultural inputs are the primary driver in another 18% of watersheds, concentrated in the Midwest and Mid-Atlantic, while background soil phosphorus dominates in much of the western US where natural geogenic sources are high but precipitation is low.
 
 ---
 
