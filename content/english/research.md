@@ -39,7 +39,7 @@ When lakes receive too much phosphorus from surrounding watersheds, managers oft
 
 In this project, I developed a hybrid machine learning and statistical modeling framework to estimate summer sediment phosphorus release rates (SRRs) for 5,899 large lakes and reservoirs across the contiguous US. The framework chained two random forest models (one predicting bottom-water temperature and one predicting surface-water total phosphorus) into a mixed-effects regression model for SRR, with full uncertainty propagation through the linked models. Drawing on national datasets for water quality, land use, lake morphometry, and climate, the framework produced the first comprehensive, uncertainty-quantified map of summer IPL across the US.
 
-{{< figure src="/images/ipl_abstract_graphic.png" alt="Hybrid modeling framework and predicted summer sediment phosphorus release rates across the contiguous US" caption="Hybrid modeling framework (left) combining random forest and mixed-effects regression models, and the resulting predicted summer sediment phosphorus release rates across the contiguous US (right). Figure from: Borah et al. (2025), Environmental Science & Technology. https://doi.org/10.1021/acs.est.4c13431" width="100%" >}}
+{{< figure src="/images/ipl_abstract_graphic.png" alt="Hybrid modeling framework and predicted summer sediment phosphorus release rates across the contiguous US" caption="Hybrid modeling framework (left) combining random forest and mixed-effects regression models, and the resulting predicted summer sediment phosphorus release rates across the contiguous US (right). Figure from: Borah et al. (2025), Environmental Science & Technology. https://doi.org/10.1021/acs.est.4c13431" width="75%" >}}
 
 **Key findings:**
 
