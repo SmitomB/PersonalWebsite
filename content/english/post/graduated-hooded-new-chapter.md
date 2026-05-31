@@ -15,7 +15,7 @@ After years of data wrangling, modeling, and more Bayesian iterations than I can
 
 <figure style="text-align: center; margin: 1.5em 0;">
   <img src="/images/graduation_with_advisor.jpg" alt="Smitom Borah with Dr. Daniel Obenour at NC State CCEE graduation" style="max-width: 75%; border-radius: 4px;" />
-  <figcaption style="font-size: 1.3rem; color: #9f9f9f; margin-top: 0.5em;">With my PhD advisor, Dr. Daniel Obenour, at the NC State CCEE departmental graduation ceremony, December 2025.</figcaption>
+  <figcaption style="font-size: 1.3rem; color: #9f9f9f; margin-top: 0.5em;">With my PhD advisor, <a href="https://www.ccee.ncsu.edu/people/drobenou/">Dr. Daniel Obenour</a>, and CCEE Department Head, <a href="https://ccee.ncsu.edu/people/jmacdon/">Dr. Jacqueline Gibson</a>, at the NC State CCEE departmental graduation ceremony, December 2025.</figcaption>
 </figure>
 
 The PhD journey, from modeling phosphorus dynamics in Jordan Lake to scaling up internal loading estimates across the U.S., has been deeply rewarding, and I'm grateful to Dr. Obenour and the entire CCEE community for the support along the way.
