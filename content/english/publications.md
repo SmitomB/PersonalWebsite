@@ -31,6 +31,8 @@ title: Publications
 
 ## Conference Proceedings
 
+* **Borah, S. S.**, Karimi, K., Onwuka, I., Muenich, R. L., & Obenour, D. R. (2025). Exploring the role of hydrometeorological factors in driving phosphorus exports across the United States. AGU Fall Meeting 2025, New Orleans, LA, USA. [Oral presentation]
+
 * **Borah, S. S.**, Karimi, K., & Obenour, D. R. (2023). Assessing Uncertainties in Internal Phosphorus Loading Estimates in Large Lakes and Reservoirs across the United States. AGU Fall Meeting 2023, San Francisco, CA, USA.
 
 * **Borah, S. S.**, & Obenour, D. R. (2023). Variability of Internal Phosphorus Loading in Large Water Bodies across the United States [Oral presentation]. Recycle 2023, Indian Institute of Technology Guwahati, India (online).
