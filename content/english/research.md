@@ -49,10 +49,20 @@ In this project, I developed a hybrid machine learning and statistical modeling 
 
 ---
 
-### Bayesian Reservoir Modeling — Jordan Lake, NC
+### Bayesian Reservoir Modeling, Jordan Lake, NC
 *(Jan 2021 – Dec 2022)*
 
-Developed a novel approach to quantify internal phosphorus loading by integrating a multi-segment reservoir model, long-term surface-water data, and a Bayesian inference framework. Investigated long-term phosphorus dynamics under different climate and loading management scenarios.
+Jordan Lake is a drinking water reservoir outside of Raleigh, NC, that has struggled with eutrophication since its impoundment in 1983. Despite decades of efforts to reduce nutrient runoff from surrounding watersheds, water quality improvements have been slow and uneven across the reservoir. A key but poorly understood culprit is internal phosphorus loading (IPL): phosphorus accumulated in the lake sediments over decades that gets released back into the water column each summer under warm, low-oxygen conditions. Estimating IPL is notoriously difficult because it requires either costly field experiments or complex models that demand data rarely available for most waterbodies.
+
+In this project, I developed a novel modeling framework that estimates IPL dynamics by combining a segmented mass-balance phosphorus model with long-term surface-water monitoring data and Bayesian statistical inference. The reservoir was divided into four spatial segments to capture longitudinal gradients in water quality, and the model was calibrated against nearly four decades (1983 to 2018) of observations. A random forest sub-model was used to account for seasonal thermal stratification, linking bottom-water temperature to surface phosphorus concentrations. The Bayesian framework allowed systematic estimation of nutrient cycling rates, including sediment recycling, burial, and settling, along with full uncertainty quantification. The calibrated model was then used to project future phosphorus dynamics under climate warming scenarios and to evaluate the long-term effectiveness of different management interventions, including external load reductions, sediment capping, and sediment dredging.
+
+{{< figure src="/images/jl_bayesian_fig3.png" alt="Time series of simulated and observed total phosphorus in Jordan Lake segments" caption="Time series of monthly simulated (line) and observed (dots) total phosphorus concentrations in the water column and sediment layer across four segments of Jordan Lake (1983 to 2018), with 90% prediction intervals. Figure 3 from: Borah et al. (2025), Journal of Environmental Management. CC BY 4.0. https://doi.org/10.1016/j.jenvman.2025.125538" width="75%" >}}
+
+**Key findings:**
+
+- Internal phosphorus loading in Jordan Lake has become the dominant summer phosphorus source, contributing nearly twice the external load during summer months (0.53 g/m²/month). Even as watershed inputs declined by 44% over the study period, IPL remained relatively stable, explaining why surface phosphorus concentrations dropped by only 36% in response.
+- While rising temperatures are projected to intensify both phosphorus release from and deposition back to the sediments, these competing effects nearly cancel out for Jordan Lake, resulting in little net change in water-column phosphorus concentrations over the next 70 years. This contrasts with more northern lakes and suggests that recovery in Jordan Lake will be driven more by management than by climate.
+- Simulations of management scenarios show that reducing external loads alone will take roughly 62 years to achieve substantial water quality improvements, while in-lake interventions such as sediment capping or dredging can deliver faster but less sustained benefits. A combined strategy targeting both internal and external loading is projected to produce the most immediate and durable improvements.
 
 ---
 
