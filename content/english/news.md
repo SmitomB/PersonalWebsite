@@ -7,6 +7,4 @@ description: This page is about updates in Smitom's life
 title: News
 ---
 
-* News 1
-* News 2
-* News 3
+* **January 2026** — [Graduated, Hooded, and Starting a New Chapter](/post/graduated-hooded-new-chapter/) — Reflecting on completing my PhD and starting a postdoctoral position at NC State.
