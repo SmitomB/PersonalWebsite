@@ -25,7 +25,7 @@ Explored management implications for HABs and hypoxia mitigation through ensembl
 
 ## PhD Research
 
-### Riverine Phosphorus Losses Across the U.S. <span class="badge-prep">Manuscript in preparation</span>
+### Riverine Phosphorus Losses Across the U.S. <span class="badge-prep">(Manuscript in preparation)</span>
 *(Jan 2024 – Jul 2025)*
 
 Phosphorus lost from watersheds to rivers and streams is a leading cause of eutrophication in downstream lakes and coastal waters. While it is well established that precipitation drives much of this export through surface runoff, two important questions have remained largely unresolved at the national scale: which representation of precipitation best captures phosphorus export dynamics, and how does temperature factor into the picture? Total annual precipitation is the most commonly used metric in large-scale phosphorus models, but it blurs together the water that actually runs off and the water lost to evapotranspiration, which never reaches streams. Meanwhile, the role of temperature in regulating phosphorus export across the contiguous US has received little systematic attention.
