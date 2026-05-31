@@ -8,11 +8,9 @@ p, li, td, th, blockquote {
     text-align: justify;
 }
 
-.sidebar__cv-button {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    margin: 1.2em 0 0.6em;
+.sidebar__list-item--cv {
+    display: block !important;
+    margin-top: 1.2em;
 }
 
 .cv-button {
