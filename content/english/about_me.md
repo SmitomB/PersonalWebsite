@@ -18,5 +18,3 @@ My research is positioned at the intersection of **water-quality management**, *
 During my PhD, I developed several data-driven models, including mechanistic and machine learning models, to simulate phosphorus dynamics in freshwater systems. My research focused on internal nutrient loading, which is often ignored in lake and reservoir management programs but can be a significant contributor to eutrophication. My PhD thesis, *Characterizing Phosphorus Fluxes Through Aquatic Systems Using Data-driven Modeling*, was completed in July 2025 under the supervision of Professor Daniel Obenour.
 
 In my Master's program, I worked with [Dr. Ajay Kalamdhad](https://www.iitg.ac.in/kajay/) in the [Department of Civil Engineering, Indian Institute of Technology Guwahati](https://www.iitg.ac.in/civil/), India. My Master's research entailed year-long monitoring and modeling of water quality parameters in Deepor Beel, India (a Ramsar site).
-
-Here is my [CV](https://drive.google.com/file/d/1CzEygwqtutf9q0PzHOWdp9WZag-66Iuz/view?usp=sharing).
