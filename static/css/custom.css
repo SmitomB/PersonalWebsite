@@ -4,8 +4,7 @@
     object-fit: cover;
 }
 
-.wrapper__main p,
-.wrapper__main li {
+p, li, td, th, blockquote {
     text-align: justify;
 }
 
