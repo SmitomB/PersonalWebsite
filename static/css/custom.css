@@ -1,3 +1,12 @@
+@media screen and (min-width: 961px) {
+    .wrapper__sidebar {
+        width: 28%;
+    }
+    .wrapper__main {
+        width: 72%;
+    }
+}
+
 .avatar, .avatar img, .author__avatar img {
     width: 250px !important;
     height: 250px !important;
