@@ -2,13 +2,13 @@
   name = "News"
   identifier = "news"
   weight = 400
-  url = "/"
+  url = "/news/"
 
   [[main]]
   name = "About me"
   weight = 100
   identifier = "about_me"
-  url = "/about_me/"
+  url = "/"
 
   [[main]]
   name = "Research"
