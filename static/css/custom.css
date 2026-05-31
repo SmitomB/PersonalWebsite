@@ -8,6 +8,46 @@ p, li, td, th, blockquote {
     text-align: justify;
 }
 
+.featured-pub {
+    border-left: 3px solid #6086b4;
+    background-color: #f4f7fb;
+    border-radius: 0 4px 4px 0;
+    padding: 1em 1.4em;
+    margin: 1.6em 0;
+}
+
+.featured-pub__label {
+    font-size: 1.1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #6086b4;
+    margin-bottom: 0.5em;
+}
+
+.featured-pub__citation {
+    font-size: 1.4rem;
+    line-height: 1.7;
+    margin: 0 0 0.8em 0;
+    text-align: left;
+}
+
+.featured-pub__doi {
+    display: inline-block;
+    font-size: 1.25rem;
+    color: #fff !important;
+    background-color: #6086b4;
+    padding: 5px 14px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+}
+
+.featured-pub__doi:hover {
+    background-color: #4a6e9e;
+    color: #fff !important;
+}
+
 .sidebar__cv-button {
     display: block;
     width: 100%;
