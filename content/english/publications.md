@@ -28,12 +28,6 @@ description: This page is about Smitom Borah's publications
 
 8. Dash, S., **Borah, S. S.**, & Kalamdhad, A. (2018). Monitoring and assessment of Deepor Beel water quality using multivariate statistical tools. *Water Practice and Technology*, 13(4), 893–908. https://doi.org/10.2166/wpt.2018.098
 
-## In Preparation
-
-* **Borah, S. S.**, Wang, Y-C., Obenour, D. R., & Scavia, D. A multi-model ensemble framework to characterize nutrient load-response relationship in aquatic systems. *Target: Environmental Research Letters.*
-
-* **Borah, S. S.**, Karimi, K., Onwuka, I., Muenich, R. L., & Obenour, D. R. Exploring influence of hydrometeorological factors in watershed phosphorus export across the United States. *Target: Water Resources Research.*
-
 ## Conference Proceedings
 
 * **Borah, S. S.**, Karimi, K., & Obenour, D. R. (2023). Assessing Uncertainties in Internal Phosphorus Loading Estimates in Large Lakes and Reservoirs across the United States. AGU Fall Meeting 2023, San Francisco, CA, USA.
