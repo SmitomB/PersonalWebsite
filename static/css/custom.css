@@ -4,6 +4,11 @@
     object-fit: cover;
 }
 
+.wrapper__main p,
+.wrapper__main li {
+    text-align: justify;
+}
+
 .badge-prep {
     display: inline-block;
     font-size: 0.72em;
