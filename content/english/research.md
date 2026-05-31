@@ -16,13 +16,6 @@ Developing comprehensive datasets on waterbody and watershed characteristics thr
 
 ---
 
-### Estimating Greenhouse Gas Emissions Across the U.S.
-*(May 2026 – present)*
-
-Estimating greenhouse gas emissions from freshwater bodies across the United States using existing models.
-
----
-
 ### Ensemble Response Curves of Harmful Algal Blooms and Hypoxia in Lake Erie
 *(Aug 2025 – Feb 2026)*
 
