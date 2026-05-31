@@ -1,5 +1,5 @@
   [[main]]
-  name = "News"
+  name = "Updates"
   identifier = "news"
   weight = 400
   url = "/news/"
