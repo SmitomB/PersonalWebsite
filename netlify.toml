@@ -20,3 +20,4 @@ HUGO_ENV = 'production'
   from = "/"
   to = "/about_me/"
   status = 301
+  force = true
