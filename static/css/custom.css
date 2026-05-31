@@ -13,6 +13,15 @@
     object-fit: cover;
 }
 
+.sidebar__introduction-profileimage {
+    width: 190px !important;
+    height: 190px !important;
+}
+
+.sidebar__introduction-description p {
+    text-align: center !important;
+}
+
 p, li, td, th, blockquote {
     text-align: justify;
 }
