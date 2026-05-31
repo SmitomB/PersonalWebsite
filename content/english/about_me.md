@@ -24,6 +24,6 @@ In my Master's program, I worked with [Dr. Ajay Kalamdhad](https://www.iitg.ac.i
 <div class="featured-pub">
   <div class="featured-pub__label">Featured Publication</div>
   <div class="featured-pub__content">
-    <p class="featured-pub__citation"><strong>Baird, B. W., Borah, S. S., Elser, J. J., &amp; Obenour, D. R. (2026). Probabilistic assessment of algal nutrient limitation across lakes. <em>Limnology and Oceanography</em>, 71(4), e70375.</strong> <a href="https://doi.org/10.1002/lno.70375" target="_blank" rel="noopener" class="featured-pub__link"><i class="fas fa-external-link-alt" aria-label="Open article"></i></a></p>
+    <p class="featured-pub__citation">Baird, B. W., Borah, S. S., Elser, J. J., &amp; Obenour, D. R. (2026). Probabilistic assessment of algal nutrient limitation across lakes. <em>Limnology and Oceanography</em>, 71(4), e70375. <a href="https://doi.org/10.1002/lno.70375" target="_blank" rel="noopener" class="featured-pub__link"><i class="fas fa-external-link-alt" aria-label="Open article"></i></a></p>
   </div>
 </div>
