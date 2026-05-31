@@ -8,7 +8,7 @@
   name = "About me"
   weight = 100
   identifier = "about_me"
-  url = "/"
+  url = "/about_me/"
 
   [[main]]
   name = "Research"
