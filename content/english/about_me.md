@@ -18,4 +18,4 @@ During my PhD, I developed several data-driven models, including mechanistic and
 
 In my Master's program, I worked with [Dr. Ajay Kalamdhad](https://www.iitg.ac.in/kajay/) in the [Department of Civil Engineering, Indian Institute of Technology Guwahati](https://www.iitg.ac.in/civil/), India. My Master's research entailed year-long monitoring and modeling of water quality parameters in Deepor Beel, India (a Ramsar site).
 
-Here is my [CV](https://drive.google.com/file/d/1BbS1bpe4CsAItGdBrK_AfJfPRYUhh2UN/view?usp=drive_link).
+Here is my [CV](https://drive.google.com/file/d/1CzEygwqtutf9q0PzHOWdp9WZag-66Iuz/view?usp=sharing).
